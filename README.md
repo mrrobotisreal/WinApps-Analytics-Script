@@ -1,1 +1,0 @@
-# WinApps-Analytics-Script
